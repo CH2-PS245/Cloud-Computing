@@ -1,0 +1,674 @@
+[
+  {
+    "ID TEMPAT": "01",
+    "TEMPAT": "Tukang Ayam",
+    "LOCATION": "Mangga Besar Raya No. 2B,  Jakarta",
+    "LATITUDE": "-6,1491503",
+    "LONGITUDE": "106,8348115"
+  },
+  {
+    "ID TEMPAT": "02",
+    "TEMPAT": "Tukang Ikan",
+    "LOCATION": "Pancoran No. 23,  Jakarta",
+    "LATITUDE": "-6,2580853",
+    "LONGITUDE": "106,8427326"
+  },
+  {
+    "ID TEMPAT": "03",
+    "TEMPAT": "Tukan Buah",
+    "LOCATION": "Mangga Besar Raya No. 81,  Jakarta",
+    "LATITUDE": "-6,148735",
+    "LONGITUDE": "106,8239003"
+  },
+  {
+    "ID TEMPAT": "04",
+    "TEMPAT": "Tukang Sayur",
+    "LOCATION": "Puri Agung,  Jakarta",
+    "LATITUDE": "-6,1877297",
+    "LONGITUDE": "106,7333436"
+  },
+  {
+    "ID TEMPAT": "05",
+    "TEMPAT": "Tukang Sayur 2",
+    "LOCATION": "Tomang Raya No. 51,  Jakarta",
+    "LATITUDE": "-6,1733748",
+    "LONGITUDE": "106,8057516"
+  },
+  {
+    "ID TEMPAT": "06",
+    "TEMPAT": "Mini Market",
+    "LOCATION": "Tomang Raya No. 54,  Jakarta",
+    "LATITUDE": "-6,1733748",
+    "LONGITUDE": "106,8057516"
+  },
+  {
+    "ID TEMPAT": "07",
+    "TEMPAT": "Super Market",
+    "LOCATION": "Pesanggrahan No. 15A,  Jakarta",
+    "LATITUDE": "-6,2557097",
+    "LONGITUDE": "106,7600011"
+  },
+  {
+    "ID TEMPAT": "08",
+    "TEMPAT": "Frozen Food",
+    "LOCATION": "Mangga Besar Raya No. 17,  Jakarta",
+    "LATITUDE": "-6,1491503",
+    "LONGITUDE": "106,8348115"
+  },
+  {
+    "ID TEMPAT": "09",
+    "TEMPAT": "Tukan Daging",
+    "LOCATION": "Mangga II B-38,  Jakarta",
+    "LATITUDE": "-6,1757661",
+    "LONGITUDE": "106,7781943"
+  },
+  {
+    "ID TEMPAT": 10,
+    "TEMPAT": "Tukang Bumbu",
+    "LOCATION": "Tanjung Duren Utara I,  Jakarta",
+    "LATITUDE": "-6,17182",
+    "LONGITUDE": "106,7824559"
+  },
+  {
+    "ID TEMPAT": 11,
+    "TEMPAT": "Jajanan Pasar",
+    "LOCATION": "Mangga Besar VIII/12,  Jakarta",
+    "LATITUDE": "-6,1455551",
+    "LONGITUDE": "106,8187154"
+  },
+  {
+    "ID TEMPAT": 12,
+    "TEMPAT": "Toko Beras",
+    "LOCATION": "Tanjung Duren Barat III No. 1,  Jakarta",
+    "LATITUDE": "-6,1774231",
+    "LONGITUDE": "106,7818411"
+  },
+  {
+    "ID TEMPAT": 13,
+    "TEMPAT": "Jajanan Kentang",
+    "LOCATION": "Gajah Mada No. 82,  Jakarta",
+    "LATITUDE": "-6,1495108",
+    "LONGITUDE": "106,8156079"
+  },
+  {
+    "ID TEMPAT": 14,
+    "TEMPAT": "Martabak",
+    "LOCATION": "Daan Mogot,  Jakarta",
+    "LATITUDE": "-6,1547581",
+    "LONGITUDE": "106,7345542"
+  },
+  {
+    "ID TEMPAT": 15,
+    "TEMPAT": "Kue Putu",
+    "LOCATION": "Raya Pejuangan No. 21,  Jakarta",
+    "LATITUDE": "-6,1909103",
+    "LONGITUDE": "106,7572001"
+  },
+  {
+    "ID TEMPAT": 16,
+    "TEMPAT": "Kue Pukis",
+    "LOCATION": "Raya Panjang No. 10,  Jakarta",
+    "LATITUDE": "-6,1665236",
+    "LONGITUDE": "106,7633846"
+  },
+  {
+    "ID TEMPAT": 17,
+    "TEMPAT": "Kue Basah",
+    "LOCATION": "Tiang Bendera II / 84, Roa Malaka,  Jakarta",
+    "LATITUDE": "-6,133539",
+    "LONGITUDE": "106,8086303"
+  },
+  {
+    "ID TEMPAT": 18,
+    "TEMPAT": "Gorengan",
+    "LOCATION": "Tiang Bendera II No. 84,  Jakarta",
+    "LATITUDE": "-6,1319019",
+    "LONGITUDE": "106,8081969"
+  },
+  {
+    "ID TEMPAT": 19,
+    "TEMPAT": "Tahu Sumedang",
+    "LOCATION": "Gajah Mada No. 174,  Jakarta",
+    "LATITUDE": "-6,1495108",
+    "LONGITUDE": "106,8156079"
+  },
+  {
+    "ID TEMPAT": 20,
+    "TEMPAT": "Siomay",
+    "LOCATION": "Latumeten No. 33,  Jakarta",
+    "LATITUDE": "-6,145406",
+    "LONGITUDE": "106,793839"
+  },
+  {
+    "ID TEMPAT": 21,
+    "TEMPAT": "Oleh oleh kecil",
+    "LOCATION": "Tomang Raya No. 41,  Jakarta",
+    "LATITUDE": "-6,1751756",
+    "LONGITUDE": "106,8030913"
+  },
+  {
+    "ID TEMPAT": 22,
+    "TEMPAT": "Pisang goreng",
+    "LOCATION": "Hayam Wuruk No. 72,  Jakarta",
+    "LATITUDE": "-6,1671585",
+    "LONGITUDE": "106,8208979"
+  },
+  {
+    "ID TEMPAT": 23,
+    "TEMPAT": "Mc Donald",
+    "LOCATION": "Hayam Wuruk No. 126,  Jakarta",
+    "LATITUDE": "-6,1671585",
+    "LONGITUDE": "106,8208979"
+  },
+  {
+    "ID TEMPAT": 24,
+    "TEMPAT": "Solaria",
+    "LOCATION": "Raya Perjuangan No. 1,  Jakarta",
+    "LATITUDE": "-6,1907347",
+    "LONGITUDE": "106,7682989"
+  },
+  {
+    "ID TEMPAT": 25,
+    "TEMPAT": "Ichiban",
+    "LOCATION": "Pesanggrahan No. 8,  Jakarta",
+    "LATITUDE": "-6,2557097",
+    "LONGITUDE": "106,7600011"
+  },
+  {
+    "ID TEMPAT": 26,
+    "TEMPAT": "Pizza",
+    "LOCATION": "Hayam Wuruk No. 108,  Jakarta",
+    "LATITUDE": "-6,1521554",
+    "LONGITUDE": "106,8175552"
+  },
+  {
+    "ID TEMPAT": 27,
+    "TEMPAT": "Bakmi",
+    "LOCATION": "Kali Besar Barat No. 44 - 46,  Jakarta",
+    "LATITUDE": "-6,1340542",
+    "LONGITUDE": "106,8110172"
+  },
+  {
+    "ID TEMPAT": 28,
+    "TEMPAT": "KFC",
+    "LOCATION": "Mangga Besar Raya No. 57A,  Jakarta",
+    "LATITUDE": "-6,1491503",
+    "LONGITUDE": "106,8348115"
+  },
+  {
+    "ID TEMPAT": 29,
+    "TEMPAT": "Subway",
+    "LOCATION": "Raya Perjuangan Blok D-9,  Jakarta",
+    "LATITUDE": "-6,1907347",
+    "LONGITUDE": "106,7682989"
+  },
+  {
+    "ID TEMPAT": 30,
+    "TEMPAT": "Super Sambal",
+    "LOCATION": "Pintu Besar Selatan No. 69,  Jakarta",
+    "LATITUDE": "-6,1396153",
+    "LONGITUDE": "106,8133395"
+  },
+  {
+    "ID TEMPAT": 31,
+    "TEMPAT": "Yoshinoya",
+    "LOCATION": "Hayam Wuruk No. 45,  Jakarta",
+    "LATITUDE": "-6,1671585",
+    "LONGITUDE": "106,8208979"
+  },
+  {
+    "ID TEMPAT": 32,
+    "TEMPAT": "Roti O",
+    "LOCATION": "Gajah Mada No. 37,  Jakarta",
+    "LATITUDE": "-6,1495108",
+    "LONGITUDE": "106815607,9"
+  },
+  {
+    "ID TEMPAT": 33,
+    "TEMPAT": "Dunkin Donut",
+    "LOCATION": "Hayam Wuruk No. 73,  Jakarta",
+    "LATITUDE": "-6,1671585",
+    "LONGITUDE": "106,8208979"
+  },
+  {
+    "ID TEMPAT": 34,
+    "TEMPAT": "J co",
+    "LOCATION": "Roa Malaka Utara No. 30,  Jakarta",
+    "LATITUDE": "-6,1317315",
+    "LONGITUDE": "106,809249"
+  },
+  {
+    "ID TEMPAT": 35,
+    "TEMPAT": "Kartika Sari",
+    "LOCATION": "Hayam Wuruk No. 102,  Jakarta",
+    "LATITUDE": "-6,1671585",
+    "LONGITUDE": "106,8208979"
+  },
+  {
+    "ID TEMPAT": 36,
+    "TEMPAT": "Holand Bakery",
+    "LOCATION": "Gajah Mada No. 126,  Jakarta",
+    "LATITUDE": "-6,1518293",
+    "LONGITUDE": "106,8170007"
+  },
+  {
+    "ID TEMPAT": 37,
+    "TEMPAT": "Nasi Uduk",
+    "LOCATION": "Mangga Besar I No. 34,  Jakarta",
+    "LATITUDE": "-6,1460201",
+    "LONGITUDE": "106,8182556"
+  },
+  {
+    "ID TEMPAT": 38,
+    "TEMPAT": "Ketoprak",
+    "LOCATION": "Pesanggrahan Raya No. 12A,  Jakarta",
+    "LATITUDE": "-6,2476341",
+    "LONGITUDE": "106,7487643"
+  },
+  {
+    "ID TEMPAT": 39,
+    "TEMPAT": "Ketupat",
+    "LOCATION": "Gajah Mada No. 147,  Jakarta",
+    "LATITUDE": "-6,1495108",
+    "LONGITUDE": "106,8156079"
+  },
+  {
+    "ID TEMPAT": 40,
+    "TEMPAT": "Bubur",
+    "LOCATION": "Pintu Besar Utara No. 14,  Jakarta",
+    "LATITUDE": "-6,1375415",
+    "LONGITUDE": "106,8134956"
+  },
+  {
+    "ID TEMPAT": 41,
+    "TEMPAT": "Rawon",
+    "LOCATION": "Mangga Besar I No. 26,  Jakarta",
+    "LATITUDE": "-6,1460201",
+    "LONGITUDE": "106,8182556"
+  },
+  {
+    "ID TEMPAT": 42,
+    "TEMPAT": "Gado-gado",
+    "LOCATION": "Plaza Glodok,  Pinangsia Raya,  Jakarta",
+    "LATITUDE": -614231480,
+    "LONGITUDE": "106,8167497"
+  },
+  {
+    "ID TEMPAT": 43,
+    "TEMPAT": "Pempek",
+    "LOCATION": "Tanjung Duren Raya No. 34,  Jakarta",
+    "LATITUDE": "-6,175495",
+    "LONGITUDE": "106,7835781"
+  },
+  {
+    "ID TEMPAT": 44,
+    "TEMPAT": "Nasi Kucing",
+    "LOCATION": "Hayam Wuruk No. 103,  Jakarta",
+    "LATITUDE": "-6,1671585",
+    "LONGITUDE": "106,8208979"
+  },
+  {
+    "ID TEMPAT": 45,
+    "TEMPAT": "Soto",
+    "LOCATION": "Mangga Besar I No. 63,  Jakarta",
+    "LATITUDE": "-6,1460201",
+    "LONGITUDE": "106,8182556"
+  },
+  {
+    "ID TEMPAT": 46,
+    "TEMPAT": "Bebek Goreng",
+    "LOCATION": "Bandengan Selatan No. 14,  Jakarta",
+    "LATITUDE": "-6,1373528",
+    "LONGITUDE": "106,7928657"
+  },
+  {
+    "ID TEMPAT": 47,
+    "TEMPAT": "Ayam Geprek",
+    "LOCATION": "Pinangsia Raya No. 1-B,  Jakarta",
+    "LATITUDE": "-6,1394075",
+    "LONGITUDE": "106,8152263"
+  },
+  {
+    "ID TEMPAT": 48,
+    "TEMPAT": "Ayam Geprek 1",
+    "LOCATION": "Kali Besar Barat No. 22,  Jakarta",
+    "LATITUDE": "-6,1340542",
+    "LONGITUDE": "106,8110172"
+  },
+  {
+    "ID TEMPAT": 49,
+    "TEMPAT": "Ayam Geprek",
+    "LOCATION": "Mangga Besar Raya No. 63,  Jakarta",
+    "LATITUDE": "-6,1491503",
+    "LONGITUDE": "106,8348115"
+  },
+  {
+    "ID TEMPAT": 50,
+    "TEMPAT": "Atam Taliwang",
+    "LOCATION": "Daan Mogot No. 111,  Jakarta",
+    "LATITUDE": "-6,16064485",
+    "LONGITUDE": "106716831,2"
+  },
+  {
+    "ID TEMPAT": 51,
+    "TEMPAT": "Fried Chiken",
+    "LOCATION": "Pesanggrahan No. 6,  Jakarta",
+    "LATITUDE": "-6,2557097",
+    "LONGITUDE": "106,7600011"
+  },
+  {
+    "ID TEMPAT": 52,
+    "TEMPAT": "Ayamn Kremes",
+    "LOCATION": "Mangga Besar Raya No. 65,  Jakarta",
+    "LATITUDE": "-6,1491503",
+    "LONGITUDE": "106,8348115"
+  },
+  {
+    "ID TEMPAT": 53,
+    "TEMPAT": "D' Keprek",
+    "LOCATION": "Roa Malaka Utara No. 49,  Jakarta",
+    "LATITUDE": "-6,1317315",
+    "LONGITUDE": "106,809249"
+  },
+  {
+    "ID TEMPAT": 54,
+    "TEMPAT": "Nasi Padang",
+    "LOCATION": "Hayam Wuruk No. 101,  Jakarta",
+    "LATITUDE": "-6,1671585",
+    "LONGITUDE": "106,8208979"
+  },
+  {
+    "ID TEMPAT": 55,
+    "TEMPAT": "Warteg 1",
+    "LOCATION": "Hayam Wuruk No. 82,  Jakarta",
+    "LATITUDE": "-6,1671585",
+    "LONGITUDE": "106,8208979"
+  },
+  {
+    "ID TEMPAT": 56,
+    "TEMPAT": "Warteg 2",
+    "LOCATION": "Tomang Raya No. 44,  Jakarta",
+    "LATITUDE": "-6,1751756",
+    "LONGITUDE": "106,8030913"
+  },
+  {
+    "ID TEMPAT": 57,
+    "TEMPAT": "Warteg 3",
+    "LOCATION": "Joglo Raya No. 28A,  Jakarta",
+    "LATITUDE": "-6,2178523",
+    "LONGITUDE": "106,7503115"
+  },
+  {
+    "ID TEMPAT": 58,
+    "TEMPAT": "Sate",
+    "LOCATION": "Raya Kemanggisan No. 20,  Jakarta",
+    "LATITUDE": "-6,1911219",
+    "LONGITUDE": "106,785637"
+  },
+  {
+    "ID TEMPAT": 59,
+    "TEMPAT": "Baso",
+    "LOCATION": "Pancoran No. 64,  Jakarta",
+    "LATITUDE": "-6,2580853",
+    "LONGITUDE": "106,8427326"
+  },
+  {
+    "ID TEMPAT": 60,
+    "TEMPAT": "Restoran Babi",
+    "LOCATION": "Pintu Besar Selatan No. 29,  Jakarta",
+    "LATITUDE": "-6,1396153",
+    "LONGITUDE": "106,8133395"
+  },
+  {
+    "ID TEMPAT": 61,
+    "TEMPAT": "Sate Babi",
+    "LOCATION": "Apartemen Mediterania Gajah Mada,  Gajah Mada ,  Jakarta",
+    "LATITUDE": "-6,1492967",
+    "LONGITUDE": "106,8155777"
+  },
+  {
+    "ID TEMPAT": 62,
+    "TEMPAT": "Mie Gacoan",
+    "LOCATION": "Mangga Dua Raya No. 81,  Jakarta",
+    "LATITUDE": "-6,148735",
+    "LONGITUDE": "106,8239003"
+  },
+  {
+    "ID TEMPAT": 63,
+    "TEMPAT": "Grill",
+    "LOCATION": "Tomang Raya No. 35,  Jakarta",
+    "LATITUDE": "-6,1751756",
+    "LONGITUDE": "106,8030913"
+  },
+  {
+    "ID TEMPAT": 64,
+    "TEMPAT": "Warung kayu",
+    "LOCATION": "Gajah Mada,  Jakarta",
+    "LATITUDE": "-6,1739691",
+    "LONGITUDE": "106,781653"
+  },
+  {
+    "ID TEMPAT": 65,
+    "TEMPAT": "Warung Sawah",
+    "LOCATION": "Daan Mogot No. 34,  Jakarta",
+    "LATITUDE": "-6,16064485",
+    "LONGITUDE": "106,7168312"
+  },
+  {
+    "ID TEMPAT": 66,
+    "TEMPAT": "China Resto",
+    "LOCATION": "Mangga Besar No. 19,  Jakarta",
+    "LATITUDE": "-6,1455551",
+    "LONGITUDE": "106,8187154"
+  },
+  {
+    "ID TEMPAT": 67,
+    "TEMPAT": "Seafood Festival",
+    "LOCATION": "Tanjung Duren Raya No. 59,  Jakarta",
+    "LATITUDE": "-6,1737425",
+    "LONGITUDE": "106,7850016"
+  },
+  {
+    "ID TEMPAT": 68,
+    "TEMPAT": "Istana Nelayan",
+    "LOCATION": "Labu No. 5,  Jakarta",
+    "LATITUDE": "-6,30914375",
+    "LONGITUDE": "106,7979382"
+  },
+  {
+    "ID TEMPAT": 69,
+    "TEMPAT": "Prasmanan 1",
+    "LOCATION": "Tomang Raya No. 7,  Jakarta",
+    "LATITUDE": "-6,1733748",
+    "LONGITUDE": "106,8057516"
+  },
+  {
+    "ID TEMPAT": 70,
+    "TEMPAT": "Prasmanan 2",
+    "LOCATION": "Lingkar Barat,  Jakarta",
+    "LATITUDE": "-6,1546781",
+    "LONGITUDE": "106,7270708"
+  },
+  {
+    "ID TEMPAT": 71,
+    "TEMPAT": "Jus 1",
+    "LOCATION": "Taman Hiburan Rakyat Lokasari Blok A No. 2,  Jakarta",
+    "LATITUDE": "-6,14712825",
+    "LONGITUDE": "106,8230705"
+  },
+  {
+    "ID TEMPAT": 72,
+    "TEMPAT": "Jus 2",
+    "LOCATION": "Mangga Besar Raya No. 25A,  Jakarta",
+    "LATITUDE": "-6,1491503",
+    "LONGITUDE": "106,8348115"
+  },
+  {
+    "ID TEMPAT": 73,
+    "TEMPAT": "Nasi Goreng 1",
+    "LOCATION": "Mangga Besar Raya,  Jakarta",
+    "LATITUDE": "-6,1491503",
+    "LONGITUDE": "106,8348115"
+  },
+  {
+    "ID TEMPAT": 74,
+    "TEMPAT": "Nasi Goreng 2",
+    "LOCATION": "KH. Wahid Hasyim No. 59,  Jakarta",
+    "LATITUDE": "-6,1871367",
+    "LONGITUDE": "106,8191209"
+  },
+  {
+    "ID TEMPAT": 75,
+    "TEMPAT": "Depot Ikana",
+    "LOCATION": "Hayam Wuruk No. 15,  Jakarta",
+    "LATITUDE": "-6,1671585",
+    "LONGITUDE": "106,8208979"
+  },
+  {
+    "ID TEMPAT": 76,
+    "TEMPAT": "Cak Abit",
+    "LOCATION": "Mangga Besar Raya No. 138,  Jakarta",
+    "LATITUDE": "-6,1491503",
+    "LONGITUDE": "106,8348115"
+  },
+  {
+    "ID TEMPAT": 77,
+    "TEMPAT": "De Cozzy",
+    "LOCATION": "KH. Hasyim Ashari No. 125,  Jakarta",
+    "LATITUDE": "-6,1654549",
+    "LONGITUDE": "106,8180646"
+  },
+  {
+    "ID TEMPAT": 78,
+    "TEMPAT": "Mie Ayam",
+    "LOCATION": "Jaksa No. 5A,  Jakarta",
+    "LATITUDE": "-6,1856229",
+    "LONGITUDE": "106,8291431"
+  },
+  {
+    "ID TEMPAT": 79,
+    "TEMPAT": "Gudeg",
+    "LOCATION": "Pintu V,  Jakarta",
+    "LATITUDE": "-6,1631871",
+    "LONGITUDE": "106,8327508"
+  },
+  {
+    "ID TEMPAT": 80,
+    "TEMPAT": "Es TEH Indonesia",
+    "LOCATION": "Raden Saleh No. 58,  Jakarta",
+    "LATITUDE": "-6,1905833",
+    "LONGITUDE": "106,8445502"
+  },
+  {
+    "ID TEMPAT": 81,
+    "TEMPAT": "Sambel Bakar",
+    "LOCATION": "Raden Saleh No. 62,  Jakarta",
+    "LATITUDE": "-6,1905833",
+    "LONGITUDE": "106,8445502"
+  },
+  {
+    "ID TEMPAT": 82,
+    "TEMPAT": "Rujak",
+    "LOCATION": "Jaksa No. 25,  Jakarta",
+    "LATITUDE": "-6,1856229",
+    "LONGITUDE": "106,8291431"
+  },
+  {
+    "ID TEMPAT": 83,
+    "TEMPAT": "Kembang Tahu",
+    "LOCATION": "Tanjung Karang No. 2,  Jakarta",
+    "LATITUDE": "-6,2009487",
+    "LONGITUDE": "106,8225887"
+  },
+  {
+    "ID TEMPAT": 84,
+    "TEMPAT": "Soto Babon",
+    "LOCATION": "Senen Raya No. 135,  Jakarta",
+    "LATITUDE": "-6,1751582",
+    "LONGITUDE": "106,8392175"
+  },
+  {
+    "ID TEMPAT": 85,
+    "TEMPAT": "Dapoer Cobek",
+    "LOCATION": "Cikini Raya No. 75,  Jakarta",
+    "LATITUDE": "-6,1866166",
+    "LONGITUDE": "106,8363257"
+  },
+  {
+    "ID TEMPAT": 86,
+    "TEMPAT": "Asinan",
+    "LOCATION": "HOS. Cokroaminoto No. 78,  Jakarta",
+    "LATITUDE": "-6,1934522",
+    "LONGITUDE": "106,8288342"
+  },
+  {
+    "ID TEMPAT": 87,
+    "TEMPAT": "Toko Mie",
+    "LOCATION": "KH. Wahid Hasyim No. 51,  Jakarta",
+    "LATITUDE": "-6,1871367",
+    "LONGITUDE": "106,8191209"
+  },
+  {
+    "ID TEMPAT": 88,
+    "TEMPAT": "Toge Goreng",
+    "LOCATION": "Timor No. 18-20,  Jakarta",
+    "LATITUDE": "-6,2430832",
+    "LONGITUDE": "106,8896545"
+  },
+  {
+    "ID TEMPAT": 89,
+    "TEMPAT": "Stand Burger",
+    "LOCATION": "Kebon Kacang Raya,  Jakarta",
+    "LATITUDE": "-6,1912793",
+    "LONGITUDE": "106,8126581"
+  },
+  {
+    "ID TEMPAT": 90,
+    "TEMPAT": "Kopi Sudio 24",
+    "LOCATION": "KH. Samanhudi No. 38,  Jakarta",
+    "LATITUDE": "-6,1607385",
+    "LONGITUDE": "106,8337064"
+  },
+  {
+    "ID TEMPAT": 91,
+    "TEMPAT": "Lalapan",
+    "LOCATION": "Kramat Raya No. 126,  Jakarta",
+    "LATITUDE": "-6,2033971",
+    "LONGITUDE": "106,8691024"
+  },
+  {
+    "ID TEMPAT": 92,
+    "TEMPAT": "Warteg Sarirasa",
+    "LOCATION": "KH. Wahid Hasyim No. 63A,  Jakarta",
+    "LATITUDE": "-6,1871367",
+    "LONGITUDE": "106,8191209"
+  },
+  {
+    "ID TEMPAT": 93,
+    "TEMPAT": "Steak",
+    "LOCATION": "Wahid Hasyim No. 116,  Jakarta",
+    "LATITUDE": "-6,1871367",
+    "LONGITUDE": "106,8191209"
+  },
+  {
+    "ID TEMPAT": 94,
+    "TEMPAT": "AADK",
+    "LOCATION": "Sutan Syahrir No.1D,  Jakarta",
+    "LATITUDE": "-6,1967648",
+    "LONGITUDE": "106,8383886"
+  },
+  {
+    "ID TEMPAT": 95,
+    "TEMPAT": "Roketo",
+    "LOCATION": "Tanah Abang II No. 103,  Jakarta",
+    "LATITUDE": "-6,1762676",
+    "LONGITUDE": "106,8093932"
+  },
+  {
+    "ID TEMPAT": 96,
+    "TEMPAT": "Dialoogi",
+    "LOCATION": "Kebon Sirih Timur Dalam No. 37-39,  Jakarta",
+    "LATITUDE": "-6,184055",
+    "LONGITUDE": "106,8303978"
+  }
+]
